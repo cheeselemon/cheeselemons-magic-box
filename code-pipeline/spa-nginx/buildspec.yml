@@ -9,7 +9,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Building the Docker image...
-      - IMAGE_REPO_NAME="___REPO_NAME___"
+      - IMAGE_REPO_NAME="___IMAGE_NAME___"
       - IMAGE_TAG="latest"
       - docker build -t $IMAGE_REPO_NAME:$IMAGE_TAG .
       - docker tag $IMAGE_REPO_NAME:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG    
@@ -18,7 +18,7 @@ phases:
       - echo Build completed on `date`
       - echo Pushing the Docker image...
       - docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG
-      - printf '[{"name":"___REPO_NAME___","imageUri":"%s"}]' $AWS_ACCOUNT_ID.dkr.ecr.ap-northeast-2.amazonaws.com/___REPO_NAME___:latest > imagedefinitions.json
+      - printf '[{"name":"___IMAGE_NAME___","imageUri":"%s"}]' $AWS_ACCOUNT_ID.dkr.ecr.ap-northeast-2.amazonaws.com/___IMAGE_NAME___:latest > imagedefinitions.json
 artifacts:
   files: 
     - imagedefinitions.json
