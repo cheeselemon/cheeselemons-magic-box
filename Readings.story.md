@@ -4,6 +4,9 @@
 
 https://mailchi.mp/cathyxcash/1201?e=ca28819fa2
 
+So Long Scrum, Hello Kanban
+
+https://stormpath.com/blog/so-long-scrum-hello-kanban
 
 UI를 위한 글쓰기
 
