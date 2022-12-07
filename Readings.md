@@ -1,8 +1,15 @@
 ### DEV 
 
+Github copilot for Swift devs
+
+https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0
+
+### Culture Related
+
 So Long Scrum, Hello Kanban
 
 https://stormpath.com/blog/so-long-scrum-hello-kanban
+
 
 ### NN
 
