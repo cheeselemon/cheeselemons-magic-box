@@ -16,3 +16,7 @@ https://stormpath.com/blog/so-long-scrum-hello-kanban
 What does the hidden layer in a neural network compute?
 
 https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
+
+Tensorflow Playground
+
+https://playground.tensorflow.org/
