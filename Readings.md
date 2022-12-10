@@ -20,3 +20,7 @@ https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-
 Tensorflow Playground
 
 https://playground.tensorflow.org/
+
+Netron (visualize NN models)
+
+https://github.com/lutzroeder/Netron
