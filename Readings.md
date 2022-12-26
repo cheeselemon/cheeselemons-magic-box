@@ -24,3 +24,10 @@ https://playground.tensorflow.org/
 Netron (visualize NN models)
 
 https://github.com/lutzroeder/Netron
+
+
+### Security
+
+Validating leaked passwords with k-anonymity
+
+https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/
