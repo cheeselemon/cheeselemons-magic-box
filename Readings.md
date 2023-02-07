@@ -34,5 +34,7 @@ https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/
 
 ### DRM Related 
 
+A Simple HLS Implementation that Prevents Videos from Being Downloaded Easily
+
 https://medium.com/@jeanycyang/a-simple-hls-implementation-that-prevents-videos-from-being-downloaded-easily-9135545861e0
 
