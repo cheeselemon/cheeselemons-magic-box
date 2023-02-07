@@ -1,17 +1,17 @@
-### DEV 
+## DEV 
 
 Github copilot for Swift devs
 
 https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0
 
-### Culture Related
+## Culture Related
 
 So Long Scrum, Hello Kanban
 
 https://stormpath.com/blog/so-long-scrum-hello-kanban
 
 
-### NN
+## NN
 
 What does the hidden layer in a neural network compute?
 
@@ -26,8 +26,13 @@ Netron (visualize NN models)
 https://github.com/lutzroeder/Netron
 
 
-### Security
+## Security
 
 Validating leaked passwords with k-anonymity
 
 https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/
+
+### DRM Related 
+
+https://medium.com/@jeanycyang/a-simple-hls-implementation-that-prevents-videos-from-being-downloaded-easily-9135545861e0
+
