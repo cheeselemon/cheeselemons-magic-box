@@ -1,3 +1,5 @@
+귀찮아서 PostgreSQL 로컬에서 대강 띄우기
+
 ```
 docker pull postgres:13.9-alpine
 ```
