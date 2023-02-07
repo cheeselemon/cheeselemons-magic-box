@@ -38,3 +38,9 @@ A Simple HLS Implementation that Prevents Videos from Being Downloaded Easily
 
 https://medium.com/@jeanycyang/a-simple-hls-implementation-that-prevents-videos-from-being-downloaded-easily-9135545861e0
 
+PallyCon SaaS
+
+https://pallycon.com/ko/blog/
+
+
+
