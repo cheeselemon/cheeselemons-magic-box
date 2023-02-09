@@ -46,5 +46,9 @@ Guide to Selecting and Implementing DRM & Content Protection
 
 https://bitmovin.com/guide-selecting-implementing-premium-content-protection/
 
+Video Streaming Service Research
+
+https://blog.keizie.net/2019/01/video-streaming-service-research.html
+
 
 
