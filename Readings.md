@@ -42,5 +42,9 @@ PallyCon SaaS
 
 https://pallycon.com/ko/blog/
 
+Guide to Selecting and Implementing DRM & Content Protection
+
+https://bitmovin.com/guide-selecting-implementing-premium-content-protection/
+
 
 
