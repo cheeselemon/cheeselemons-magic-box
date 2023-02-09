@@ -50,5 +50,8 @@ Video Streaming Service Research
 
 https://blog.keizie.net/2019/01/video-streaming-service-research.html
 
+ffmpeg hls options 
+
+https://frontdev.tistory.com/entry/ffmpeg%EB%A1%9C-hls-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%B5%EC%85%98%EC%A0%95%EB%A6%AC
 
 
