@@ -32,7 +32,7 @@ Validating leaked passwords with k-anonymity
 
 https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/
 
-### DRM Related 
+### Dash/HLS/DRM Related 
 
 A Simple HLS Implementation that Prevents Videos from Being Downloaded Easily
 
