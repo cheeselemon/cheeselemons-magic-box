@@ -9,6 +9,7 @@ https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b33696
 [번역] 빠른 개발을 위한 기술 (The fine art of fast development)
 
 (ko-KR) https://www.rinae.dev/posts/the-fine-art-of-fast-development-kr-1
+
 (en-US) https://david-gilbertson.medium.com/the-fine-art-of-fast-development-f3b1abb509da
 
 So Long Scrum, Hello Kanban
