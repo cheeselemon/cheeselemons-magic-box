@@ -6,6 +6,10 @@ https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b33696
 
 ## Culture Related
 
+[번역] 빠른 개발을 위한 기술
+
+https://www.rinae.dev/posts/the-fine-art-of-fast-development-kr-1
+
 So Long Scrum, Hello Kanban
 
 https://stormpath.com/blog/so-long-scrum-hello-kanban
