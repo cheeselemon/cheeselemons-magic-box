@@ -16,6 +16,12 @@ So Long Scrum, Hello Kanban
 
 https://stormpath.com/blog/so-long-scrum-hello-kanban
 
+## DBMS 
+
+ENUMs are evil. 
+
+http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/
+
 
 ## NN
 
