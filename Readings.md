@@ -4,6 +4,14 @@ Github copilot for Swift devs
 
 https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0
 
+## iOS
+
+Debug WKWebView after 16.4 update 
+
+https://webkit.org/blog/13936/enabling-the-inspection-of-web-content-in-apps/
+
+
+
 ## Culture Related
 
 [번역] 빠른 개발을 위한 기술 (The fine art of fast development)
@@ -73,6 +81,8 @@ https://gist.github.com/Andrey2G/78d42b5c87850f8fbadd0b670b0e6924
 reFlutter - reverse engineer flutter apps
 
 https://github.com/ptswarm/reFlutter
+
+
 
 
 
