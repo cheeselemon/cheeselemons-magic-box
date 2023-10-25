@@ -6,4 +6,8 @@ https://www.nngroup.com/articles/ten-usability-heuristics/
 
 **Landing Pages Explained**
 
-**https://landingpagesexplained.com/**
+https://landingpagesexplained.com/
+
+**RadixUI + tailwindCSS = shadcn**
+
+https://ui.shadcn.com/
